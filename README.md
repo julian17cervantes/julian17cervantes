@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I'm+YOUR_NAME;CS+student+at+YOUR_SCHOOL;Backend+and+applied+ML;Looking+for+SWE+internships" alt="Hi, I'm Julian Cervantes. CS student at CSULN. Backend and applied ML. Looking for SWE internships.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I'm+Julian+Cervantes;CS+student+at+CSULB;Backend+and+applied+ML;Looking+for+SWE+internships" alt="Hi, I'm Julian Cervantes. CS student at CSULN. Backend and applied ML. Looking for SWE internships.">
 
 <br>
 
