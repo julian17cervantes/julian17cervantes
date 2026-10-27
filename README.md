@@ -4,6 +4,9 @@ CS student at CSULB, interested in backend engineering and applied ML.
 
 ## What I've built
 
+**[NYC Taxi Trip Duration](https://github.com/julian17cervantes/nyc-taxi-duration)**
+Predicts taxi trip duration with LightGBM on 22M trips, using a time-based split. On a held-out month it cut error 10.2% below the best non-ML baseline, and the same recipe reproduced on a second year. Served with FastAPI and Docker. Python, DuckDB, LightGBM.
+
 **[Semantic Search](https://github.com/julian17cervantes/semantic-search)**
 A semantic search engine over Simple English Wikipedia (308k text chunks). I tuned a FAISS HNSW index to 99.7% recall@10 against exact search at about 20x the speed, and benchmarked it against BM25 keyword search on 27 hand-labeled queries. Python, FastAPI, FAISS, Sentence-Transformers.
 
