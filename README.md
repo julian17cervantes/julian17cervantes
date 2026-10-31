@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I'm+Julian+Cervantes;CS+student+at+CSULB;Backend+and+applied+ML;Looking+for+SWE+internships" alt="Hi, I'm Julian Cervantes. CS student at CSULN. Backend and applied ML. Looking for SWE internships.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I'm+YOUR_NAME;CS+student+at+YOUR_SCHOOL;Backend+and+applied+ML;Looking+for+SWE+internships" alt="Hi, I'm YOUR_NAME. CS student at YOUR_SCHOOL. Backend and applied ML. Looking for SWE internships.">
 
 <br>
 
@@ -20,7 +20,7 @@
 ## What I've built
 
 **[Semantic Search](https://github.com/julian17cervantes/semantic-search)**
-A semantic search engine over Simple English Wikipedia (308k text chunks). I tuned a FAISS HNSW index to 99.7% recall@10 against exact search at about 20x the speed, and benchmarked it against BM25 keyword search on 27 hand-labeled queries. Python, FastAPI, FAISS, Sentence-Transformers.
+A search engine over Simple English Wikipedia (308k text chunks) that also answers factoid questions. I tuned a FAISS HNSW index to 99.7% recall@10 against exact search at about 20x the speed, and measured it against BM25 keyword search on 27 hand-labeled queries (semantic search won: 0.96 vs 0.70 hit@10). The answer step picks a span from the retrieved passages and withholds low-confidence answers. I froze its settings before writing 30 new questions, and it answered 22 of them correctly and withheld 7, with the limits written up in the README. Python, FastAPI, FAISS, Sentence-Transformers.
 
 **[NYC Taxi Trip Duration](https://github.com/julian17cervantes/nyc-taxi-duration)**
 Predicts taxi trip duration with LightGBM on 22M trips, using a time-based split. On a held-out month it cut error 10.2% below the best non-ML baseline, and the same recipe reproduced on a second year. Served with FastAPI and Docker. Python, DuckDB, LightGBM.
