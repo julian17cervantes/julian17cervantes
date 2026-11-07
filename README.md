@@ -27,7 +27,7 @@ A search engine over Simple English Wikipedia (308k text chunks) that also answe
 Predicts taxi trip duration with LightGBM on 22M trips, using a time-based split. On a held-out month it cut error 10.2% below the best non-ML baseline, and the same recipe reproduced on a second year. Served with FastAPI and Docker. Python, DuckDB, LightGBM.
 
 **[Course Compass](https://github.com/julian17cervantes/Course-Compass)**
-A REST API for tracking courses and calculating GPA, with JWT authentication, per-user data isolation, a goal-GPA planner, and a final-exam calculator. Tested with Pytest and GitHub Actions, containerized with Docker, and deployed on Railway. Python, FastAPI, PostgreSQL, SQLAlchemy.
+A full-stack course tracker: a FastAPI and PostgreSQL API with JWT authentication and per-user data isolation, plus a React frontend with a GPA summary and goal planner. Tested with Pytest and GitHub Actions, built with a multi-stage Docker image, and deployed on Railway. Python, React, FastAPI, PostgreSQL.
 
 ## Get in touch
 
