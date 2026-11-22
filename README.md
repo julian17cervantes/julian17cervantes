@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I'm+Julian+Cervantes;CS+student+at+CSULB;Backend+and+applied+ML;Looking+for+SWE+internships" alt="Hi, I'm Julian Cervantes. CS student at CSULB. Backend and applied ML. Looking for SWE internships.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I'm+Julian+Cervantes;CS+student+at+CSULB;Applied+ML+and+Machine+Learning;Looking+for+SWE+internships" alt="Hi, I'm Julian Cervantes. CS student at CSULB. Applied AI and Machine Learning. Looking for SWE internships.">
 
 ### Programming & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
